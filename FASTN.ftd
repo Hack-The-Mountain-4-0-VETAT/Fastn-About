@@ -1,0 +1,7 @@
+-- import: fastn as f
+
+-- f.package: fas
+
+-- f.dependency: fifthtry.github.io/doc-site
+-- f.dependency: fifthtry.github.io/admonitions
+
