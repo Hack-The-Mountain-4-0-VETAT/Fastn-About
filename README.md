@@ -1,1 +1,46 @@
-# Fastn-About
+# Our Vision 
+
+Empowering communities with accessible and affordable solar energy solutions to promote sustainable development by reducing reliance on non-renewable energy sources, mitigating environmental impact, and fostering economic growth and social well-being.
+
+# Our Aim
+
+To provide a robust platform for the exchange of renewable energy between producers and consumers, via the transfer of energy credits between them.
+
+## How do we do it?
+
+The key features of the proposed electricity exchange platform operating at a peer-to-peer level, incorporating blockchain technology and a fluctuating rate of electricity, include:
+
+- Peer-to-Peer Electricity Trading: Facilitating direct buying and selling of electricity between individual producers and consumers, allowing them to trade excess or required electricity at a personal level.
+- Fluctuating Electricity Rate: Introducing a dynamic pricing mechanism based on the ratio of gross electricity production to gross electricity consumption, ensuring a market-driven rate reflective of supply and demand.
+- Platform Resembling Stock Trading: Creating a user-friendly interface resembling stock market platforms, allowing users to engage in electricity trading in a manner similar to stock trading.
+- Blockchain-based Decentralized Ledger: Utilizing blockchain technology for secure, transparent, and immutable storage of all electricity trade details of individual users, ensuring data integrity and trust in the system.
+- Calculation of Overall Unit: Implementing a formula to calculate the net electricity units bought or sold by each user, allowing for a clear account of surplus or deficit electricity units.
+- User-Controlled Electricity Supply: Empowering users with control over their electricity supply. If a user has a surplus (positive overall unit), they can request the power station to supply the same amount of electricity. Users can stop or resume this supply at their discretion.
+- Impact of Negative or Zero Overall Unit: If a user's account shows a negative or zero overall unit, the power station will not supply electricity even upon request, encouraging users to manage and balance their energy usage.
+
+These key features combine to create a decentralized, transparent, and user-centric electricity exchange platform where consumers and producers can efficiently trade electricity based on market dynamics while leveraging blockchain for secure and trustworthy record-keeping.
+
+The platform encourages responsible energy management and self-sufficiency while also promoting a balance between supply and demand at an individual level.
+
+## Tech We Used
+
+![Image](https://github.com/Hack-The-Mountain-4-0-VETAT/VETAT/assets/83060926/24d0edb2-c28f-40e5-9ad2-6b7e8be0b63c)
+
+![Image](https://github.com/Hack-The-Mountain-4-0-VETAT/VETAT/assets/83060926/19e3851d-b128-44d7-b6d3-6a38e7df43e6)
+
+![Image](https://github.com/Hack-The-Mountain-4-0-VETAT/VETAT/assets/83060926/47cd72c1-1d41-4157-82f5-bc7d288c36df)
+
+![Image](https://github.com/Hack-The-Mountain-4-0-VETAT/VETAT/assets/83060926/92382745-c7a2-403a-a398-171bff048e1e)
+
+![Image](https://github.com/Hack-The-Mountain-4-0-VETAT/VETAT/assets/83060926/8a72fc66-87bd-49b3-9959-16180da89566)
+
+![Image](https://github.com/Hack-The-Mountain-4-0-VETAT/VETAT/assets/83060926/214356eb-00bd-4462-a10b-e6508924cdc7)
+
+![Image](https://github.com/Hack-The-Mountain-4-0-VETAT/VETAT/assets/83060926/181658f1-6ccf-4d40-835f-c3b62d1d4eff)
+
+## Our Team
+
+- Arjun Kumar Soni - Team Leader
+- Himanshu Ashware
+- Dushyant Pathak
+- Om Tiwari
