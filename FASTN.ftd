@@ -5,3 +5,6 @@
 -- f.dependency: fifthtry.github.io/doc-site
 -- f.dependency: fifthtry.github.io/admonitions
 
+-- fastn.sitemap:
+
+# Home: index.html
